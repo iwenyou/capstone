@@ -1,10 +1,5 @@
-class UserController < ApplicationController
-
+class UsersController < ApplicationController
   def index
-
-  end
-
-  def show
 
   end
 
@@ -13,6 +8,10 @@ class UserController < ApplicationController
   end
 
   def create
+
+  end
+
+  def show
 
   end
 
